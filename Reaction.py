@@ -16,16 +16,6 @@ class Circle:
         Circle.allInstances.remove(self)
         del self
 
-    # file = open('Apps\\Reaction Game\\Database\\user_stats.json', 'w')
-    # from random import randint
-    # for user in ('Harshith', 'Pragati', 'Tobit'):
-    #     for game, _ in games:
-    #         for key in data[user][game].keys():
-    #             data[user][game][key] = randint(70,100)
-
-    # json.dump(data, file, indent=2)
-    # file.close()
-
     def increaseSize(self):
         self.rad += (10 / self.rad) * 0.7
 

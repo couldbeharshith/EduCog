@@ -31,7 +31,7 @@ def stats(user: str):
 
     fig = plt.figure()
     ax = fig.add_subplot(111)
-    ax.set_title("My Plot")
+    ax.set_title("Peer Comparision")
     ax.set_xlabel("Time")
     ax.set_ylabel("Scores")
     currData = data[user]

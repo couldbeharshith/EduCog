@@ -4,8 +4,17 @@ import json
 import pyglet
 from PIL import Image
 
-import customtkinter as ctk
-from customtkinter import CTkLabel, CTkButton, CTkImage, CTkFrame, CTkOptionMenu, CTkFont, StringVar, CTkInputDialog
+from customtkinter import (
+    CTk,
+    CTkLabel,
+    CTkButton,
+    CTkImage,
+    CTkFrame,
+    CTkOptionMenu,
+    CTkFont,
+    StringVar,
+    CTkInputDialog
+)
 
 from stats import stats
 import Reaction
@@ -15,7 +24,7 @@ from TextColor import ColorText
 
 pyglet.font.add_file('Assets\\LEMONMILK-Bold.otf')
 
-class Home(ctk.CTk):
+class Home(CTk):
     LemonMilk = lambda size: CTkFont('LEMONMILK-Bold', size)
     PerfectIsland = lambda size: CTkFont('Perfect island', size)
 

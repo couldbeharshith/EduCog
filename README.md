@@ -1,4 +1,4 @@
-# DPS-HackOverflow-2023
+# EduCog - EdTech App For Cognitive Abilities
 EdTech app that focuses on and improves children's cognitive abilities.
 Note - all video demos are slowed down due to GIF encoding
 

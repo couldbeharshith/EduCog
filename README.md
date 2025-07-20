@@ -1,5 +1,6 @@
 # DPS-HackOverflow-2023
 EdTech app that focuses on and improves children's cognitive abilities.
+Note - all video demos are slowed down due to GIF encoding
 
 Home Page of The App
 ![Home Page](Demo/Home.png "Home page")

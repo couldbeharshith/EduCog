@@ -1,5 +1,5 @@
 # DPS-HackOverflow-2023
-EdTech app that focuses on and improves their children's cognitive abilities.
+EdTech app that focuses on and improves children's cognitive abilities.
 
 Home Page of The App
 ![Home Page](Demo/Home.png "Home page")
